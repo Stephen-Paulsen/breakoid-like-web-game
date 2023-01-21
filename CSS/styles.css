@@ -1,0 +1,36 @@
+* { 
+	padding: 0;
+	margin: 0; 
+	display: inline;
+	text-align: center;
+}
+
+#canvas {
+	position: relative;
+	display: inline; 
+	margin: 0 auto;
+	z-index: 2;
+}
+
+#board {
+	position: relative;
+	left: 0px;
+	bottom: 300px;
+	z-index: 3;
+}
+
+title {
+	display: none; 
+}
+
+#page {
+	background-image: url("../Resources/Bricks_bg.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#animated1{
+	position: relative;	 
+	top: 0px;
+}
