@@ -2,6 +2,11 @@
 
 A simple web game
 
+open the html file with a web browser to play!
+
+controls:
+mouse and space bar
+
 there's 3 different levels
 
 lvl 1: normal
